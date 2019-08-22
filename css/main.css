@@ -1,0 +1,10 @@
+
+.nav-bar {
+  list-style: none;
+}
+
+.web-offer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
